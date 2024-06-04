@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PengYuting',
-  tagline: '小彭 is watching u',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/pengyuting181/web.github.io',
+  url: 'https://pengyuting181.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,8 +21,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pengyuting181', // Usually your GitHub org/user name.
-  projectName: 'web.github.io', // Usually your repo name.
-
+  projectName: 'web', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash:false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -64,9 +65,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/thepage.png',
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'PengYuting',
+        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -76,12 +77,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '开发项目',
+            label: 'Tutorial',
           },
-          {to: '/blog', label: '自我介绍', position: 'left'},
-          {to: '/text', label: '碎碎念', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/pengyuting181',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,22 +94,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '开发项目',
+                label: 'Tutorial',
                 to: '/docs/intro',
-              },
-            ],
-          },
-
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/pengyuting181',
               },
             ],
           },
@@ -127,6 +113,19 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
