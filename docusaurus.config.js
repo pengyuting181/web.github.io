@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'PengYuting',
+  tagline: '小彭 is watching u',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,9 +65,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/thepage.png',
       navbar: {
-        title: 'My Site',
+        title: 'PengYuting',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -77,11 +77,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '开发项目',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '个人介绍', position: 'left'},
+          
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/pengyuting181',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,8 +95,22 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Project',
                 to: '/docs/intro',
+              },
+            ],
+          },
+
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/pengyuting181',
               },
             ],
           },
@@ -113,19 +128,6 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
