@@ -31,24 +31,24 @@
             <category>Foundational Models</category>
         </item>
         <item>
-            <title><![CDATA[ORENeXt]]></title>
-            <link>https://pengyuting181.github.io/web.github.io/blog/ORENEXT</link>
-            <guid>https://pengyuting181.github.io/web.github.io/blog/ORENEXT</guid>
+            <title><![CDATA[OreNeXt]]></title>
+            <link>https://pengyuting181.github.io/web.github.io/blog/OreNEXT</link>
+            <guid>https://pengyuting181.github.io/web.github.io/blog/OreNEXT</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[任务目标：]]></description>
-            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="任务目标">任务目标：<a class="hash-link" aria-label="Direct link to 任务目标：" title="Direct link to 任务目标：" href="https://pengyuting181.github.io/web.github.io/blog/ORENEXT#%E4%BB%BB%E5%8A%A1%E7%9B%AE%E6%A0%87">​</a></h4>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="任务目标">任务目标：<a class="hash-link" aria-label="Direct link to 任务目标：" title="Direct link to 任务目标：" href="https://pengyuting181.github.io/web.github.io/blog/OreNEXT#%E4%BB%BB%E5%8A%A1%E7%9B%AE%E6%A0%87">​</a></h4>
 <blockquote>
 <p>获取清晰的完整矿石mask图像，得到其粒度信息</p>
 </blockquote>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="矿石粒度信息">矿石粒度信息：<a class="hash-link" aria-label="Direct link to 矿石粒度信息：" title="Direct link to 矿石粒度信息：" href="https://pengyuting181.github.io/web.github.io/blog/ORENEXT#%E7%9F%BF%E7%9F%B3%E7%B2%92%E5%BA%A6%E4%BF%A1%E6%81%AF">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="矿石粒度信息">矿石粒度信息：<a class="hash-link" aria-label="Direct link to 矿石粒度信息：" title="Direct link to 矿石粒度信息：" href="https://pengyuting181.github.io/web.github.io/blog/OreNEXT#%E7%9F%BF%E7%9F%B3%E7%B2%92%E5%BA%A6%E4%BF%A1%E6%81%AF">​</a></h4>
 <blockquote>
 <p>指矿石的粒径、周长、面积等信息。粒度信息是判断破碎机有效性的重要指标，可作为调整各工艺工艺参数的指导作用。</p>
 </blockquote>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="本文研究重点">本文研究重点：<a class="hash-link" aria-label="Direct link to 本文研究重点：" title="Direct link to 本文研究重点：" href="https://pengyuting181.github.io/web.github.io/blog/ORENEXT#%E6%9C%AC%E6%96%87%E7%A0%94%E7%A9%B6%E9%87%8D%E7%82%B9">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="本文研究重点">本文研究重点：<a class="hash-link" aria-label="Direct link to 本文研究重点：" title="Direct link to 本文研究重点：" href="https://pengyuting181.github.io/web.github.io/blog/OreNEXT#%E6%9C%AC%E6%96%87%E7%A0%94%E7%A9%B6%E9%87%8D%E7%82%B9">​</a></h4>
 <blockquote>
 <p>针对矿石堆叠问题解决边缘识别精度差的难题</p>
 </blockquote>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="主要创新点">主要创新点：<a class="hash-link" aria-label="Direct link to 主要创新点：" title="Direct link to 主要创新点：" href="https://pengyuting181.github.io/web.github.io/blog/ORENEXT#%E4%B8%BB%E8%A6%81%E5%88%9B%E6%96%B0%E7%82%B9">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="主要创新点">主要创新点：<a class="hash-link" aria-label="Direct link to 主要创新点：" title="Direct link to 主要创新点：" href="https://pengyuting181.github.io/web.github.io/blog/OreNEXT#%E4%B8%BB%E8%A6%81%E5%88%9B%E6%96%B0%E7%82%B9">​</a></h4>
 <ul>
 <li>
 <p><strong>边缘引导的loss:</strong></p>
@@ -97,16 +97,16 @@
             <category>Foundational Models</category>
         </item>
         <item>
-            <title><![CDATA[OREInst]]></title>
-            <link>https://pengyuting181.github.io/web.github.io/blog/OREINST</link>
-            <guid>https://pengyuting181.github.io/web.github.io/blog/OREINST</guid>
+            <title><![CDATA[OreInst]]></title>
+            <link>https://pengyuting181.github.io/web.github.io/blog/OreINST</link>
+            <guid>https://pengyuting181.github.io/web.github.io/blog/OreINST</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[本文研究重点：]]></description>
-            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="本文研究重点">本文研究重点：<a class="hash-link" aria-label="Direct link to 本文研究重点：" title="Direct link to 本文研究重点：" href="https://pengyuting181.github.io/web.github.io/blog/OREINST#%E6%9C%AC%E6%96%87%E7%A0%94%E7%A9%B6%E9%87%8D%E7%82%B9">​</a></h4>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="本文研究重点">本文研究重点：<a class="hash-link" aria-label="Direct link to 本文研究重点：" title="Direct link to 本文研究重点：" href="https://pengyuting181.github.io/web.github.io/blog/OreINST#%E6%9C%AC%E6%96%87%E7%A0%94%E7%A9%B6%E9%87%8D%E7%82%B9">​</a></h4>
 <blockquote>
 <p>通过对纹理特征的学习获得完整的矿石掩码图像</p>
 </blockquote>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="主要创新点">主要创新点：<a class="hash-link" aria-label="Direct link to 主要创新点：" title="Direct link to 主要创新点：" href="https://pengyuting181.github.io/web.github.io/blog/OREINST#%E4%B8%BB%E8%A6%81%E5%88%9B%E6%96%B0%E7%82%B9">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="主要创新点">主要创新点：<a class="hash-link" aria-label="Direct link to 主要创新点：" title="Direct link to 主要创新点：" href="https://pengyuting181.github.io/web.github.io/blog/OreINST#%E4%B8%BB%E8%A6%81%E5%88%9B%E6%96%B0%E7%82%B9">​</a></h4>
 <p>本文建立一种框监督的实例分割框架，结合纹理特征和颜色空间的融合特征相似性提出了一个新的损失函数，使模型能够更好的学到完整矿石图像的特征。</p>
 <p><img decoding="async" loading="lazy" alt="faster" src="https://pengyuting181.github.io/web.github.io/assets/images/image-7ac6ae7f2522627801b52995689f34d0.png" width="623" height="447" class="img_ev3q"></p>]]></content:encoded>
             <category>Deep Learning</category>
